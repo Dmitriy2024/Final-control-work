@@ -1,0 +1,4 @@
+Скачиваем файл              #mysql-apt-config_0.8.29-1_all.deb (mysql-server уже был установлен)
+Запускаем файл              #sudo apt-get install mysql-server
+Обнавляем                   #sudo apt-get update
+Устанавливаем mysql-server  #sudo apt-get install mysql-server

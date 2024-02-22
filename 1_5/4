@@ -1,0 +1,3 @@
+Скачиваем файл         #mysql-connector-j_8.3.0-1ubuntu22.04_all.deb
+Устанавливаем          #sudo dpkg -i /home/student/Загрузки/mysql-connector-j_8.3.0-1ubuntu22.04_all.deb
+Удаляем                #sudo dpkg -r mysql-connector-j
